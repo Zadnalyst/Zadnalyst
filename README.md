@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zadnalyst
-- 👀 I’m interested in Data Analysis and Programming.
+- 👀 I’m interested in Data Analytics and Programming.
 - 🌱 I’m currently learning Data Analysis and Programming/Coding.
 - 📫 How to reach me life4free .
 - 😄 Pronouns: He/Him.
